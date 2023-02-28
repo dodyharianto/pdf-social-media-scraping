@@ -1,1 +1,1 @@
-# Extract Formal and Informal Words from PDF Files and Social Media
+# Extract Indonesian Words from PDF Files & Social Media
